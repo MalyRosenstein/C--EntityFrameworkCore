@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.AssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\שנה ב\C#\Lesson8\obj\Debug\net8.0\Lesson8.MvcApplicationPartsAssemblyInfo.cache
